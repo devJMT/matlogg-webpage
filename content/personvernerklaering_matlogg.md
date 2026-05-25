@@ -100,8 +100,7 @@ Du kan kontakte oss på smartkunde@gmail.com. Hvis du mener at vi behandler pers
 
 ## Barn
 
-Matlogg er ikke spesielt rettet mot barn under 13 år. Vi ber ikke bevisst barn om å sende oss personopplysninger. Hvis du mener at et barn har sendt oss personopplysninger, kan du kontakte oss slik at vi kan vurdere sletting.
-
+Matlogg er ikke spesielt rettet mot barn under 13 år.
 ## Fremtidige funksjoner
 
 Hvis Matlogg senere tilbyr konto, cloud-backup, synkronisering eller lanseres på flere plattformer, skal personvernerklæringen oppdateres før slike funksjoner tas i bruk. Brukeren skal få tydelig informasjon om hva som eventuelt lastes opp og hvordan data kan slettes.
