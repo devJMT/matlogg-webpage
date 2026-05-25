@@ -171,10 +171,9 @@ export const footerColumns = [
     ],
   },
   {
-    title: "Følg oss",
+    title: "Kontakt",
     links: [
-      { label: "Instagram", href: "#" },
-      { label: "Facebook", href: "#" },
+      { label: "E-post", href: "mailto:smartkunde@gmail.com" },
       { label: "Nyhetsbrev", href: "/#venteliste" },
     ],
   },
