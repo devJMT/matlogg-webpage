@@ -36,6 +36,12 @@ Bruk denne som personvernlenke i Apple App Store Connect:
 https://matlogg.netlify.app/personvern
 ```
 
+Bruk denne som supportlenke i Apple App Store Connect og Google Play:
+
+```txt
+https://matlogg.netlify.app/support
+```
+
 Hvis `matlogg` allerede er tatt som Netlify site name, bruker du navnet Netlify gir deg eller
 velger et annet ledig navn. Du kan koble på eget domene senere i Netlify uten å endre appen.
 

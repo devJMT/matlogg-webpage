@@ -165,6 +165,7 @@ export const footerColumns = [
   {
     title: "Ressurser",
     links: [
+      { label: "Support", href: "/support" },
       { label: "FAQ", href: "/#faq" },
       { label: "Personvern", href: "/personvern" },
       { label: "Vilkår", href: "/personvern" },
